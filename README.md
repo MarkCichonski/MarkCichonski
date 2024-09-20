@@ -5,7 +5,7 @@
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MarkCichonski.MarkCichonski)
+https://visitor-badge.glitch.me/badge?page_id=MarkCichonski.visitor-badge
 
 </p>
 <div size='20px'> Hi! My name is MarkCichonski. Thank You for taking the time to view my GitHub Profile :smile: 
