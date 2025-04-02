@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on Data Catalog, Data Quality and Data Governance
 
-- 🌱 I’m currently learning Advanced Data Governance 
+- 🌱 I’m currently learning Quantum Computing 
 
 - 👯 I’m looking to continue my Data Management Startup
 
